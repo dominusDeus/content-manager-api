@@ -6,9 +6,8 @@
     "priority": "1",
     "timeToFinish": "1",
     "createdAt": "2021-03-24T15:12:57.915Z",
-    "status": "complete",
-    "id": "1616598777915",
-    "activationTime": "2021-03-24T15:13:40.775Z"
+    "status": "inactive",
+    "id": "1616598777915"
   },
   {
     "title": "Learning Javascript language",
@@ -17,7 +16,7 @@
     "priority": "2",
     "timeToFinish": "120",
     "createdAt": "2021-03-19T12:14:58.007Z",
-    "status": "complete",
+    "status": "inactive",
     "id": "1616156098007"
   },
   {
